@@ -4,7 +4,7 @@
 ### It will help people who don't understand sign language, want to learn it etc.
 
 ## It was made by the following steps:
-### 1)
+### 1) Collecting data
 ### 2)
 
 ### Example (Screenshot from Website):
