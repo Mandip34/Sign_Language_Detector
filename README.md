@@ -5,6 +5,7 @@
 
 ## It was made by the following steps:
 ### 1) Collecting data
-### 2)
+### 2) Data Analysis
+### 3)
 
 ### Example (Screenshot from Website):
